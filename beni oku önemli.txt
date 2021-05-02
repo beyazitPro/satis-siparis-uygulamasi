@@ -1,0 +1,1 @@
+projenin çalışabilmesi için bilgisayarınızda devexpressin yüklü olması gerekir ve proje klasöründeki satış sipariş uygulaması gerekli dosyalar dosyasını satis-siparis-uygulamasi-master\satış sipariş uygulaması\bin\Debug klasörüne kopyalamış olmanız gerekir. bunları yaptıktan sonra proje doğru bir şekilde çalışmaya başlayacaktır.

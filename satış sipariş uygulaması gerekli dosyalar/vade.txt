@@ -1,0 +1,8 @@
+Ön Ödeme
+Peşin
+7 gün
+15 gün
+30 gün
+45 gün
+60 gün
+90 gün

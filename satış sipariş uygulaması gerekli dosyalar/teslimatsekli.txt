@@ -1,0 +1,10 @@
+Elden bırakılacak
+Sadece Fatura
+Elden alınacak
+UPS Kargo
+Aras Kargo
+Yurtiçi Kargo
+MNG Kargo
+PTT  Kargo
+DHL Kargo
+Kargo(not yazınız)
